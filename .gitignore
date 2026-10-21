@@ -1,0 +1,6 @@
+node_modules/
+dist/
+_skills-ref/
+DESIGN-referencia.md
+.DS_Store
+*.local
